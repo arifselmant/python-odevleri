@@ -1,0 +1,6 @@
+sayi1 = 357475454745714144417414741
+sayi2 = 444444444477848478788112509
+sayi3 = 100000454485847874988554545
+
+en_buyuk = max(sayi1, sayi2, sayi3)
+print(f"En büyük sayı: {en_buyuk}")

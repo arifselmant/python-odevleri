@@ -1,0 +1,6 @@
+Adım1 Girilen sayı hem3 hem5e bölünoyr ise "15'e tam bölünür yazılacak" 
+Adım2 bölünmüyor ise "15'e tam bölünmez" yazılacak
+  
+
+
+

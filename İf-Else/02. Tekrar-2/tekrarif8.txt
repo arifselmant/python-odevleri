@@ -1,0 +1,2 @@
+Adım1 67=Zonguldak 68= Aksaray 69= Bayburt 
+Adım2 Bundan farklı bir sayı yazılır ise "Türkiye" yazılacak

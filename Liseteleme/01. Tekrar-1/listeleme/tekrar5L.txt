@@ -1,0 +1,2 @@
+Adım1 asal sayıları yaz
+Adım2 listeme yöntemi ile yazdır 

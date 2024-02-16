@@ -1,0 +1,4 @@
+Adım1 Kullanıcı adı ve şifre isteyin          KULLANICI ADI:Türkiye ŞİFRE:1923   
+Adım2 doğru girdiğinde "Giriş Basaşrılı"  
+Adım3 Kullanıcı adı veya şifre yanlış girildiğinde "Kullanıcı adı ya da şifre yanlış 
+

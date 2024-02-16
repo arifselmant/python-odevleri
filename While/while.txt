@@ -1,0 +1,31 @@
+1) 1-30 (30 dâhil) arasındaki tek sayıları while döngüsü ile ekrana yazdırınız.
+
+2)  60-30 (30 dâhil değil) arasındaki çift sayıları azalan sırada while döngüsü ile ekrana yazdırınız. 
+
+3)  0-100 (100 dâhil) arasındaki sayılardan 5’e tam bölünenleri while döngüsü ile ekrana yazdırınız. 
+
+4) Ekran çıktısı aşağıdaki gibi olan kodu while döngüsü ile yazınız. 
+1 . sınıf 
+2 . sınıf 
+3 . sınıf 
+4 . sınıf 
+5 . sınıf 
+6 . sınıf 
+7 . sınıf 
+8 . sınıf 
+9 . sınıf 
+10 . sınıf 
+11 . sınıf 
+12 . sınıf
+
+5)  1 ile 20 arasındaki (20 dâhil) sayıların toplamını bulan programı while döngüsü ile yazınız. 
+
+6)  Girilen iki sayı arasındaki sayıları toplayan programı while döngüsü ile yazınız. 
+
+7)  Girilen iki sayı arasındaki sayıların ortalamasını bulan programı while döngüsü ile yazınız. 
+
+8) 20 ile 50 arasındaki (50 dâhil) çift sayıların toplamını bulan programı while döngüsü ile yazınız.
+
+9) Klavyeden 1 girilene kadar girilen sayıların ortalamasını alan kodu yazınız. 
+
+10)  Girilen şifre “Python” olana kadar “Tekrar deneyiniz” uyarısı veren, “Python” girAildiğinde “Giriş başarılı” uyarısı veren kodu yazınız.

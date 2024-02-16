@@ -1,0 +1,2 @@
+Adım1 Haftanın günlerini yaz 
+adım2 bunları liste yöntemi ile yazdır

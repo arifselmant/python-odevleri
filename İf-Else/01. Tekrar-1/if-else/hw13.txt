@@ -1,0 +1,5 @@
+adım1 kullanıcının ad maaş ve çalışma yılı istenelecek
+adım2 0-5 yıl çalışanlara %10 zam
+adım3 6-10 yıl çalışanlara %15 zam
+adım4 11 ve daha fazla çalışnlara %25 zam
+adım5 ad maaş çalışma yılı girildiğinde Sayın......zanlı maaşınız....tl

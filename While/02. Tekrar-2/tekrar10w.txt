@@ -1,0 +1,3 @@
+Adım1 Şifre = Yamanevler 
+Adım2 Şİfreyi doğru girne kadar "tekrar deneyiniz" 
+ADIM3 Şifre DOĞRU GİRİLDİ İSE "Yamanevler Enderun Bilişime Hoşgeldiniz" yazılıcaktır

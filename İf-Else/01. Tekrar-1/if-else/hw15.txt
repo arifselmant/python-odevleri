@@ -1,0 +1,3 @@
+adım1 kullanıcıya tiyatro mu sinemamı sorusu sorulacak
+adım2 sinema izleyecekler 15tl tiyatro izleyecekler 10tl vericek
+adım3 kullanıcı öğrenci ise %50 indirim yapıcalıcak öğrenci değil ise normal fiyat olarak devam edilecek

@@ -1,0 +1,52 @@
+1) Elemanları haftanın günleri olan bir liste oluşturunuz ve ekrana yazdırınız.
+
+2) En sevdiğiniz 3 meyveyi liste hâline getirerek ekrana yazdırınız. 
+
+3) Sırasıyla pi sayısı, inç biriminin cm olarak karşılığı, mikroişlemcilerin kısaltması, kullandığınız işletim sisteminin adı ve 48 bitin byte olarak karşılığını bir liste hâline getirerek ekrana yazdırınız.
+
+4) Haftanın günlerinden Pazartesi ile başlayan ve Cuma ile biten bir liste oluşturunuz. Oluşturduğunuz listenin indeksi 4 olan elemanını ekrana yazdırınız.
+
+5) Aşağıdaki kod nasıl bir çıktı üretir? asal_sayilar=[2, 3, 5, 7, 11, 13, 17, 19, 23] print(asal_sayilar[::2])
+
+6) Elemanları sırasıyla sanat, sanat, içindir olan listeyi sanat, toplum, içindir şeklinde değiştiriniz. 
+
+7) Değerleri sırasıyla 3,1,2 olan listeyi 1,1,2 olarak değiştiriniz.
+
+8) Adı ders, elemanları sırasıyla B,İ,L,İ,Ş,İ,M olan bir liste oluşturarak aşağıdaki işlemleri yapınız. 
+a)  Listeyi alfabetik olarak sıralayınız. 
+b)  Listeyi tersten yazdırınız. 
+c)  Listede kaç tane İ elemanı olduğunu bulunuz. 
+ç) Gerekli harfleri silerek listeyi B,İ,L,İ,M hâline getiriniz. 
+d) ders listesini alan listesine kopyalayarak ekrana alan listesini yazdırınız. 
+e) Listenin tüm elemanlarını siliniz. 
+f) L elemanının indeksini bulunuz. 
+
+9) Adı sayilar, elemanları sırasıyla 35, 26, 81, 64 olan bir liste oluşturarak aşağıdaki işlemleri yapınız. 
+a)  Listeyi büyükten küçüğe doğru sıralayınız. 
+b)  Listeyi tersten yazdırınız. 
+c)  Listede kaç tane 26 elemanı olduğunu bulunuz. 
+ç) Listedeki 81 sayısını siliniz. 
+d) Listenin tüm elemanlarını siliniz. 
+e) 64 elemanının indeksini bulunuz. 
+f) Listeyi ondalikli_sayilar isimli, elemanları 1.4, 6.8 olan liste ile birleştiriniz.
+
+10) 5 ile 15 (15 dâhil) arasındaki tek sayıları bir listeye alınız. 6 ile 16 (16 dâhil) arasındaki çift sayıları da başka bir listeye alınız. 
+a)  Oluşturduğunuz tek sayılar listesine çift sayıları ekleyerek iç içe bir liste hazırlayınız. 
+b)  Ekran çıktısı olarak 7 14 üreten kodu yazınız. 
+c)  Ekrana sırasıyla çift sayılar listesinden 10 ve 12; tek sayılar listesinden 13 yazdırınız.
+
+11) Aşağıdaki sözlükleri oluşturarak sizlerden istenen işlemleri yapınız. sozluk = {“Bilim insanı”:”Aziz Sancar”, “Şair”:”Mehmet Akif Ersoy”, “Astronom”:”Ali Kuşçu” } 
+a)  sozluk isimli sözlüğü meslekler isimli başka bir sözlüğe kopyalayınız ve ekrana yazdırınız. 
+b)  sozluk isimli sözlüğün değerlerini ekrana yazdırınız. 
+c)  sozluk isimli sözlüğü içi boş bir sözlük hâline getiriniz. 
+ç) sozluk isimli sözlüğe Matematikçi: Cahit Arf ikilisini ekleyiniz. 
+d) sozluk isimli sözlüğün içinde sanatçı anahtarının olup olmadığını sorgulayınız. 
+e) sozluk isimli sözlüğün bilim insanı anahtarındaki değeri Canan Dağdeviren olarak değiştiriniz. 
+f) sozluk isimli sözlüğün şair anahtarı ile eşleşen değeri ekrana yazdırınız. 
+
+12) onemli_telefonlar = {“Acil Çağrı Merkezi”:”112”, “Polis İmdat”:”155”, “Milli Eğitim Bakanlığı İletişim Merkezi”:”444 0 632” } 
+a)  önemli_bilgiler isimli sözlüğün değerlerini ekrana yazdırınız. 
+b)  önemli_bilgiler isimli sözlüğü siliniz. 
+c)  önemli_bilgiler isimli sözlükten Acil Çağrı Merkezi anahtarını ve değerini siliniz. 
+d) önemli_bilgiler isimli sözlükte Sağlık Bakanlığı İletişim Merkezi olup olmadığını sorgulayınız. 
+e) önemli_bilgiler isimli sözlüğü içi boş bir sözlük hâline getiriniz.

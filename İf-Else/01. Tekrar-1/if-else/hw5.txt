@@ -1,0 +1,4 @@
+1. adım kullanıcıdan kullanacı adı isteyiniz kullanıcı adıl :Türkiye
+2.adım kullanıcıdan şifre isteyiniz şifre:1923
+3.adım şifre ve kullanıcı adı doğru ise "giriş başarılı 
+4.adım kullanacı adı ve şifre yanlış ise "kullanıcı adı yada şifre yanlış"

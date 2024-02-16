@@ -1,0 +1,3 @@
+adım1 1 program i7 ve 8gb ram'e ihtiyaç duyuyor /bunları tanımla \
+program şartaları bunları sağlıyor ise "kurulum başarılı"
+program şartları sağlanmıyor ise "kurulum başarısız"

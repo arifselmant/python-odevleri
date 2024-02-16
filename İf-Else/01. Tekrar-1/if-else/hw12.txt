@@ -1,0 +1,6 @@
+adım1 kullancı boy ve kilosunu giricek 
+adım2 kullanıcının gridiği bilgilere göre VKİ alınacak 
+adım3 VKİ    1ve 25 arasında ise normal                                                                       VKİ=ağırlık/boy*boy
+adım4 VKİ 25 ve 30 arasında ise kilolu 
+adım5 VKİ 30 ve daha üstünde ise obez 
+adım6 VKİ 35 ve üstü ise ciddi obez yazılacak

@@ -1,0 +1,6 @@
+Adım1 Kullanıcıdan boy ve kilosunu girmesini isteyiniz
+Adım2 Kullanıcının VKI'sini hesaplamasını sağlayınız     vkı(boy*boy/ağırlık )
+ Adım3 vkı 18<25 arasında ise "normal" 
+ Adım4 vkı25<30 arasında "kilolu" 
+ Adım5 vkı 30 ve daha yükse ise "obez" 
+ Adım6 ise "ciddi obez" yzılacatır 

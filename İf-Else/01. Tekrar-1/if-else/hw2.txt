@@ -1,0 +1,7 @@
+birinci acıyı  alcaz
+ikinci   açıyı alcaz 
+üçüncü açıyı  alcaz
+üç acı  toplamını alcaz ve 180 eşitse üçgen olacak değilse üçgen değil yazacak
+
+
+

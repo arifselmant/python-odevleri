@@ -1,0 +1,4 @@
+Adım1 Kullanıcıya sinema yada tiyatro tercihini sor
+Adım2 sinema 15tl tiyatro 19 tl 
+Adım3 Öğrencilere %50 indirim
+Adım4 Öğrenci değl ise normal tutarını yazdır 

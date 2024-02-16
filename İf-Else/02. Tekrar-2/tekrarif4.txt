@@ -1,0 +1,4 @@
+Adım1 Kullanıcı 2 Adet ürün alıcak 
+Aım2 Aldığı ürünlerin toplamı 200tlyi geçerse %25 indirim yapılcak
+Adım3 Ürünlerin toplamı 200ü geçmiyor ise "Ödenecek Miktar........" 
+Adım3 200 tlden -fazla ise "İndirimli fiyatınız........" şeklinde yazılacak

@@ -1,0 +1,4 @@
+adım 1 3 tane üçgen kenarı tanımla
+adım2 üç tane üçgen çeşidi tanımla "eşkenar ikizkenar çeşitkenar" 
+adım3 kullanacı 3 kenar uzunluğunu seçicek 
+adım4 buna göre üçgenin seçi

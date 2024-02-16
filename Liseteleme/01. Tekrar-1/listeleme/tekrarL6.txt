@@ -1,0 +1,2 @@
+Adım1 "Sanat Sanat içindir"
+Adım2 bu cümleyi "Sanat toplum içindir" olarak değiştir

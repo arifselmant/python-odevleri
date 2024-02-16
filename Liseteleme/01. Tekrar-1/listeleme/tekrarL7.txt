@@ -1,0 +1,2 @@
+Adım1 listeye 3,2,1 sayılarını tanımla
+Adım2 0ve1. sayıyı 1 olarak değiştir

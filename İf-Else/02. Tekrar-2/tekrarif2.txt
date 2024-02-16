@@ -1,0 +1,4 @@
+Bilgi: Üçgenin iç açılarının toplamı 180'dir 
+Adım1 Kullanıcı 3 adet açı değeri giricek 
+Adım2 Kullanıcın girdiği 3 sayı 180den büyük veya küçük ise "Bu bir üçgen değildir " yazar
+Adım3 Kullanıcın girdiği 3 sayı 180 ise "Bu bir üçgendir" yazılacak 

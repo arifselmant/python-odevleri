@@ -1,0 +1,1 @@
+Adım1 1ve20 Arasındaki sayıları toplamını bul 

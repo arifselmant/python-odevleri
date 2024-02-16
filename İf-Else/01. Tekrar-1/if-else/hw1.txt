@@ -1,0 +1,8 @@
+birinci sınav notu alcaz
+ikinci sınav notunu alcaz
+üçüncü sınav notunu alcaz
+üç sınav notunu toplamını alcaz ve ortalamayı üçe bölcez
+
+50 küçükse başarısız 
+50den yüksekse başarılı
+

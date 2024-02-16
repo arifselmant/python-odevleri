@@ -1,0 +1,1 @@
+Adım1 0-100 Arasındaki sayılarıdan 5e tam bölünenleri while döngüsü ile yazdır 

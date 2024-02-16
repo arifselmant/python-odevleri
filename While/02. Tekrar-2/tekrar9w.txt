@@ -1,0 +1,1 @@
+ Klavyeden 1 girilene kadar girilen sayıların ortalamasını alan kodu yazınız. 

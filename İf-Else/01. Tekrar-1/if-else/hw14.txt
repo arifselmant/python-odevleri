@@ -1,0 +1,2 @@
+adım1 3 adet sayı girilecek  
+bu sayılardan en büyüğünü bulması istenilicek

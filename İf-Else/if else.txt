@@ -1,0 +1,32 @@
+1)  Kullanıcıdan iki sınav ve bir performans notu girmesini isteyiniz. Girilen 3 notun ortalaması 50 ve daha büyükse “Başarılı”; değilse “Başarısız” çıktıları veren kodu yazınız.
+
+2)  Bir üçgenin iç açıları toplamı 180 derecedir. Kullanıcının girdiği üç açı değerine göre “Bu bir üçgendir.” ya da “Bu bir üçgen değildir.” çıktıları veren kodu yazınız. 
+
+3)  Bir hava yolu firması en fazla 20 kilogram bagaj hakkı vermektedir. 20 kilogramdan sonraki her kilogram için 10 TL ek ücret almaktadır. Buna göre bagajı 20 kg ya da daha az olan yolculara “Herhangi bir ücret ödemeniz gerekmiyor.”; 20 kg’den fazla olanlar için de ne kadar ek ücret ödeneceğini hesaplayarak “Fazla bagaj için ….. TL ödemelisiniz.” çıktılarını veren kodu yazınız. 
+Not: Bu soruda kilogram hesabında sadece tam sayıları dikkate alınız. Örneğin 28,70 kilogram olan bagaj için sadece 8 kg için ek ücret ödenmesi yeterlidir. 
+
+4) Kullanıcının girdiği iki ürünün toplam fiyatı 200 TL ve altıysa “Ödenecek miktar=…. TL”; 200 TL’yi geçerse %25 indirim yaparak “Ödenecek miktar, indirimden sonra ….. TL’dir.” çıktılarını veren kodu yazınız.
+
+5) Kullanıcıdan kullanıcı adı ve şifre girilmesi istensin. Kullanıcı adı “Türkiye”; şifre 1923 ise “Giriş başarılı”; değilse “Kullanıcı adı ya da şifre yanlış” çıktıları veren kodu yazınız. 
+
+6)  Girilen sayı hem 3 hem de 5’e tam bölünüyorsa “15’e tam bölünür.”; bölünmüyorsa “15’e tam bölünmez.” çıktıları veren kodu yazınız.
+
+7) Bir programın bilgisayara kurulması için i7 işlemci ya da en az 8 GB RAM belleğe ihtiyaç duyulmaktadır. Şartlar sağlanıyorsa “Kurulum uygun”; sağlanmıyorsa “Kurulum uygun değil” çıktıları veren programı yazınız.
+
+8) Girilen plaka kodu 06 ise ekrana Ankara, 07 ise Antalya, 08 ise Artvin, bunların dışında girilen tüm değerlerde ise Türkiye çıktısı veren kodu yazınız.
+
+9) Kullanıcı tarafından girilen hava sıcaklığı 5 °C ve altındaysa “Soğuk”; 6-14 °C arasındaysa “Ilık”; 15 °C ve daha fazlaysa “Sıcak” çıktılarını veren kodu yazınız. 
+
+10)  Bir otoparkın ücret tarifesi aşağıdaki gibidir: 1 saate kadar: 5 TL 1-5 saat arası: Saat başı 4 TL 5 saatten fazla: Saat başı 3 TL  Buna göre kullanıcının girdiği otoparkta kalınan saat süresine göre ödenecek miktarı bularak ekrana yazdırınız. 
+
+11) Üçgenler kenar uzunluklarına göre üçe ayrılmaktadır: Eşkenar, İkizkenar ve Çeşitkenar. Kullanıcının girdiği 3 kenar uzunluğuna göre üçgenin türünü ekrana yazdırınız. 
+
+12) Kullanıcının girdiği boy ve ağırlık değerlerine göre vücut kitle indeksini  (VKİ=ağırlık/(boy*boy), boy metre cinsinden verilmeli) hesaplayınız. VKİ 18 ile < 25 aralığındaysa normal, VKİ 25 ile <30 aralığındaysa kilolu, VKİ 30 ve daha yüksekse obez, VKİ 35 ve daha fazlaysa ciddi obez olarak kabul edilir. VKİ’ni hesaplayarak kişinin durumunu yazdırınız. 
+
+13)  Kullanıcıdan adını, maaşını ve çalışma yılını girmesini isteyiniz. 0-5 yıl arası çalışanlara %10; 6-10 yıl arası çalışanlara %15; 11 ve daha fazla yıl çalışanlara %25 zam yapılmaktadır. Buna göre “Sayın …………….., zamlı maaşınız …….. TL” çıktısı veren kodu yazınız. 
+
+14)   Girilen üç sayıdan en büyüğünü bulan kodu yazınız.
+
+15) Kullanıcıya sinema ya da tiyatro tercihi sorulsun. Sinema izlemek için 15 TL, tiyatro için 10 TL ödenmesi gerekmedir. Öğrencilere %50 indirim yapıldığı düşünülerek öğrenci ise indirim yapılan; öğrenci değilse indirimsiz tutarı hesaplayarak ekrana yazdıran kodu yazınız.
+
+

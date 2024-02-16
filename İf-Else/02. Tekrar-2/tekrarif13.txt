@@ -1,0 +1,5 @@
+Adım1 Kullanıcıdan ad maaş çalışma yılını isteyiniz 
+Adım2 0-5 yıl aras  çalışanlar %10
+Adım3 6-10 yıl arası çalışanlara %15 
+Adım3 11 ve daha fazla yıl çalışanlara %25 zam yapılacakatır 
+Adım5 buna göre "Sayın ...... zamlı maaşnız ......TL"olarak yzılacatır

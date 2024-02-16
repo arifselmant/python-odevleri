@@ -1,0 +1,3 @@
+Adım1 5 derece ve altında ise "Soğuk"    
+Adım2 6-14 arasında ise "Ilık 
+Adım3 15 ve daha fazla ise "Sıcak" yazılacak

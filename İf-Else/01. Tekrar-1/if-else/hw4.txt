@@ -1,0 +1,3 @@
+2 adet ürün girelicek 
+toplamı 200 ü geçerse %25 indirim yalpılcak 
+200 ve 200ün altında ise tutar ... yazacak

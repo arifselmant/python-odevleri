@@ -1,0 +1,9 @@
+Adım1 35,26,81,64 olan bir liste yapınız 
+Adım2 Listeyi büyükten küçüğe sıralayınız 
+Adım3 listeyi tersten yazdırınız 
+Adım4 Listede kaç adet 26 elemanı olduğunu yazdır
+Adım5 listdeeki 26 elemanını sildirininiz 
+Adım6 Listedeki 81 elemanını sildirininiz 
+Adım7 Listedeki tüm elemanları sildiriniz 
+Adım8 64ün indexini bul 
+Adım9 Listeyi ondalikli_sayilar isimli, elemanları 1.4, 6.8 olan liste ile birleştiriniz.

@@ -1,0 +1,3 @@
+Bilgi:Seyahat firması en fazla 20 kg bagaj hakkı verir
+Adım1 Bagaj hakkı 29 kgden fazla olur ise her kg başına 10 tl ücret al 
+Adım2 Eğer bagaj hakkı 20 kgden fazla ise "Herhangi bir ücret ödemeniz gerekmiyor" yazılacak 

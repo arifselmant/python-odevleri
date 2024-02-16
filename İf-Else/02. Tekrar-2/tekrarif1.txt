@@ -1,0 +1,5 @@
+Adım1 sınav ata 
+Adım2 sınav ata 
+Adım3 performans notu ata 
+Adım4 bu ikisinin ortalamasının al 
+Adım5 ortalama 50den az ise "Başarısız" 50den fazla ise "Basaşrılı" yaz

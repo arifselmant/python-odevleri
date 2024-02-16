@@ -1,0 +1,8 @@
+Adım1 Bilişim adında liste kur 
+Adım2 listeyi alfabetik olarak sırala 
+Adım3 listeyi terten yazdır 
+Adım4 Listede kaç tane "i" harfi olduğunu bul 
+Adım5 Bazı harfi silerek kelimeyi"bilim"e dönüştürün 
+Adım6  ders listesini alan listesine kopyalayarak ekrana alan listesini yazdırınız. 
+Adım7 Listdeki tüm elemanları sildirininiz 
+Adım 8 L nin indexini bulunuz 
